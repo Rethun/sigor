@@ -1,1 +1,3 @@
 # sigor
+
+## ilk degisiklikler yapildi
